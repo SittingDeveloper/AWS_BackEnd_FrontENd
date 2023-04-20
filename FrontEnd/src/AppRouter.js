@@ -7,8 +7,8 @@ import SignUp from "./SignUp";
 function Copyright () {
     return (
         <Typography variant="body2" color="textSecondary" align="center">
-            {"Copyright "}
-            fsoftwareengineer, {new Date().getFullYear()}
+            {"Copyright Dev_KMS"}
+            , {new Date().getFullYear()}
             {"."}
         </Typography>
     );
